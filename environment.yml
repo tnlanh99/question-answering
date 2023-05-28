@@ -1,0 +1,17 @@
+name: nlp
+dependencies:
+  - python
+  - ujson
+  - numpy
+  - pip
+  - spacy
+  - tensorboard
+  - tensorflow
+  - tensorboardX
+  - tqdm
+  - urllib3
+  - jupyter
+  - transformers
+  - datasets
+  - pip:
+      - torch
