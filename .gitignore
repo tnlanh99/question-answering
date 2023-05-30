@@ -218,3 +218,5 @@ pyrightconfig.json
 
 data/
 save/
+data-squad/
+data-newsqa/
